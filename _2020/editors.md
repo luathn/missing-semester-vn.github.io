@@ -14,15 +14,31 @@ editing code compared to writing a long stream. It makes sense that there are
 different types of programs for writing English words versus code (e.g.
 Microsoft Word versus Visual Studio Code).
 
+Viết tiếng Anh vầ viết mã là những hành động rất khác biệt. Khi viết mã, bạn
+dành nhiều thời gian để chuyển tệp, đọc, điều hướng và sửa mã so với khi viết
+một mạch. Nó có nghĩa rằng là có nhiều loại phần mềm để viết tiếng Anh so với
+viết mã (ví dụ: Microsoft Word so với Visual Studio Code).
+
 As programmers, we spend most of our time editing code, so it's worth investing
 time mastering an editor that fits your needs. Here's how you learn a new
 editor:
+
+Là một lập trình viên, chúng ta dành hầu hết thời gian để sửa mã, vì vậy khá
+xứng đáng để đầu tư làm chủ một trình soạn thảo phù hợp với bạn. Đây là cách
+học một trình soạn thảo mới:
 
 - Start with a tutorial (i.e. this lecture, plus resources that we point out)
 - Stick with using the editor for all your text editing needs (even if it slows
 you down initially)
 - Look things up as you go: if it seems like there should be a better way to do
 something, there probably is
+
+- Bắt đầu với một bài hướng dẫn (ví dụ: bài học này cộng với những nguồn mà
+chúng tôi trích dẫn trong bài)
+- Hãy luôn dùng trình soạn thảo đó cho tất cả những tác vụ chỉnh sửa bạn cần
+(kể cả nó làm chậm bạn ở giai đoạn đầu)
+- Tra cứu mọi thứ khi bạn dùng nó: nếu cần cách tốt hơn để làm gì đó, thì sẽ
+tìm được khi bạn chịu tìm hiểu
 
 If you follow the above method, fully committing to using the new program for
 all text editing purposes, the timeline for learning a sophisticated text
@@ -34,10 +50,23 @@ memory that using the new editor saves you time. Modern text editors are fancy
 and powerful tools, so the learning never stops: you'll get even faster as you
 learn more.
 
+Nếu bạn làm theo cách phía trên, hoàn toàn sử dụng trình soạn thảo mới cho mọi
+mục đích chỉnh sửa văn bản, thì dòng thời gian để học một trình soạn thảo sẽ như
+thế này. Trong 1 hay 2 giờ đầu, bạn sẽ học những tính năng cơ bản như mở và chỉnh
+sửa tệp, lưu, thoát và di chuyển giữa các buffers. Sau khi dùng được 20 giờ, bạn
+sẽ dùng nó nhanh như khi dùng trình soạn thảo cũ. Sau đó sẽ có những lợi ích: bạn
+sẽ có đủ kiến thức và trí nhớ để dùng trình soạn thảo mới giúp bạn tiết kiệm
+thời gian. Những trình soạn thảo hiện đại sẽ có những tính năng hay và những
+công cụ mạnh mẽ, vì thế đừng bao giờ ngừng học: Bạn sẽ đi nhanh hơn nếu bạn học
+nhiều hơn.
+
 # Which editor to learn?
 
 Programmers have [strong opinions](https://en.wikipedia.org/wiki/Editor_war)
 about their text editors.
+
+Lập trình viên là [những người giữ vững quan điểm](https://en.wikipedia.org/wiki/Editor_war)
+về trình soạn thảo của họ.
 
 Which editors are popular today? See this [Stack Overflow
 survey](https://insights.stackoverflow.com/survey/2019/#development-environments-and-tools)
@@ -46,6 +75,11 @@ of programmers as a whole). [Visual Studio
 Code](https://code.visualstudio.com/) is the most popular editor.
 [Vim](https://www.vim.org/) is the most popular command-line-based editor.
 
+Những trình soạn thảo nào phổ biến hiện nay? Bạn có thể xem [Stack Overflow
+survey](https://insights.stackoverflow.com/survey/2019/#development-environments-and-tools)
+(có thể có một số không đúng vì người dùng Stack Overflow không phải đại diện cho tất cả
+các lập trình viên). [Visual Studio Code](https://code.visualstudio.com/) là trình soạn thảo
+phổ biến nhất. [Vim](https://www.vim.org/) là trình soạn thảo trên dòng lệnh phổ biến nhất.
 ## Vim
 
 All the instructors of this class use Vim as their editor. Vim has a rich
@@ -55,6 +89,9 @@ lots of tools support a Vim emulation mode (for example, 1.4 million people
 have installed [Vim emulation for VS code](https://github.com/VSCodeVim/Vim)).
 Vim is probably worth learning even if you finally end up switching to some
 other text editor.
+
+Tất cả giảng viên của khóa học này đều dùng Vim làm trình soạn thảo của họ.
+
 
 It's not possible to teach all of Vim's functionality in 50 minutes, so we're
 going to focus on explaining the philosophy of Vim, teaching you the basics,
